@@ -2,8 +2,8 @@
 layout: post
 title:  "Druid indexing-service 执行流程梳理"
 date:   2018-02-02 20:31:12
-categories: druid
-tags: druid
+tags: 
+    - druid
 ---
 
 最近在开发、测试 Druid 的 Spark-Batch-Indexing 扩展的时候遇到一点问题：提交离线导入任务以后，overlord 节点的 api 都处于404的状态，无法响应正常请求。为了定位问题，梳理了一下 Druid 的 indexing-service 执行流程，记录如下。

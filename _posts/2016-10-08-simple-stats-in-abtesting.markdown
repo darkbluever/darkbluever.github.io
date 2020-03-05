@@ -2,8 +2,10 @@
 layout: post
 title:  "A/B Testing中的统计学简述"
 date:   2016-10-08 16:16:53
-categories: 数学
-tags: 统计学 数学 "A/B testing"
+tags: 
+    - 统计学
+    - math
+    - "A/B testing"
 mathjax: true
 ---
 

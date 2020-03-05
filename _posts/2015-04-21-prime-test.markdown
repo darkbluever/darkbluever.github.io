@@ -2,8 +2,8 @@
 layout: post
 title:  "也谈素性测试"
 date:   2015-04-21 15:48:05
-categories: 数学
-tags: 数学
+tags:
+    - math
 mathjax: true
 ---
 
@@ -249,6 +249,9 @@ $b = 4, e = 13 = 1101_{[2]}, m = 497$
 
 ## References
 1.Matrix67 [素数与素性测试](http://www.matrix67.com/blog/archives/234)
+
 2.张洋 [聊聊如何检测素数](http://blog.codinglabs.org/articles/prime-test.html)
+
 3.bindog [RSA周边——大素数是怎样生成的？](http://bindog.github.io/blog/2014/07/19/how-to-generate-big-primes/)
+
 4.[wikipedia](http://en.wikipedia.org/wiki/Prime_number)

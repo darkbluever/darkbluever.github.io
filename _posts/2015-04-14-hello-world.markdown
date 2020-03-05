@@ -2,7 +2,8 @@
 layout: post
 title:  "Hello World"
 date:   2015-04-14 12:13:42
-categories: life
+tags:
+    - life
 ---
 
 ## 启

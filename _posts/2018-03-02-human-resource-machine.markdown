@@ -2,8 +2,9 @@
 layout: post
 title:  Human Resource Machine 记录
 date:   2018-03-02 15:00:06
-categories: life
-tags: game
+tags: 
+    - life
+    - game
 ---
 
 * TOC

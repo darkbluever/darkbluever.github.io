@@ -2,7 +2,8 @@
 layout: post
 title:  at the beginning of 2018
 date:   2018-02-05 12:56:01
-categories: life
+tags: 
+    - life
 ---
 
 2017年就这么过去了，2018年不知不觉已经开始。【写在2016年的开始】还在博客文章列表的第一页，若不是域名续费的邮件提醒了我，可能我还不会重新搭起来 hexo 的环境。
