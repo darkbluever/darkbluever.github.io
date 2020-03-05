@@ -75,7 +75,7 @@ ba_track_id: c9b9ef07a4d0fb90a8b05cfea2df0957
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
 
-excerpt_separator: <!--more-->
+excerpt_separator: <!-- more -->
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
