@@ -29,9 +29,11 @@ url: "http://solnotes.com" # the base hostname & protocol for your site, e.g. ht
 # github_username:  jekyll
 
 # Build settings
-remote-theme: jekyll-athena
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: foopod/jekyll-athena
 
 excerpt_separator: <!--more-->
 
