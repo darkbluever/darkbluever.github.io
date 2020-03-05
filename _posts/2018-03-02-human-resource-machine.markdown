@@ -6,6 +6,9 @@ categories: life
 tags: game
 ---
 
+* TOC
+{:toc}
+
 ## 开始
 
 开始玩Human Resource Machine 还是在2016年，当时是听一期内核恐慌的时候知道的，听起来很有意思就入坑了。
