@@ -65,7 +65,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-# disqus_username: hux
+disqus_username: solnotes
 
 # Analytics settings
 # Baidu Analytics 
