@@ -2,6 +2,7 @@
 layout: post
 title:  "A/B Testing中的统计学简述"
 date:   2016-10-08 16:16:53
+author: sol
 tags: 
     - 统计学
     - math

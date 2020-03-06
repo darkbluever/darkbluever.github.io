@@ -2,6 +2,7 @@
 layout: post
 title:  "也谈素性测试"
 date:   2015-04-21 15:48:05
+author: sol
 tags:
     - math
 mathjax: true

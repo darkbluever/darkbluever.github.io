@@ -3,6 +3,7 @@ layout: post
 title:  "迁移到Jekyll"
 date:   2020-03-05 23:29:51
 header-img: "img/post-bg-jekyll.jpg"
+author: sol
 tags: 
     - life
 ---

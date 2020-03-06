@@ -2,6 +2,7 @@
 layout: post
 title:  at the beginning of 2018
 date:   2018-02-05 12:56:01
+author: sol
 tags: 
     - life
 ---

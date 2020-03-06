@@ -2,6 +2,7 @@
 layout: post
 title:  "Druid indexing-service 执行流程梳理"
 date:   2018-02-02 20:31:12
+author: sol
 tags: 
     - druid
 ---

@@ -2,6 +2,7 @@
 layout: post
 title:  "写在2016年的开始"
 date:   2016-02-19 11:30:05
+author: sol
 tags: 
     - life
 ---
